@@ -4,7 +4,6 @@
 #zisseki{
     list-style: none;
     display: flex;
-    justify-content: center;
 }
 #show img{
     border-radius: 20px;
