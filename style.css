@@ -1,3 +1,12 @@
 #icon {
     width: 100px;
 }
+#zisseki{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+#show img{
+    border-radius: 20px;
+    margin: 20px;
+}
